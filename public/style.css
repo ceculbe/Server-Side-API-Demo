@@ -1,0 +1,10 @@
+/* this file is loaded by index.html and styles that page */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
